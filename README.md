@@ -1,7 +1,7 @@
 projec right now:
 [LonkOS](https://github.com/aeryli/LonkOS/)
 
-![GitHub Languages](https://github-languages-card.vercel.app/api/top-languages?username=aeryli&theme=green)
+![GitHub Languages](https://github-languages-card.vercel.app/api/top-languages?username=aeryli&theme=dark)
 
 
 <!--
