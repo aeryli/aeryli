@@ -1,6 +1,14 @@
 projec right now:
 [Spotify streamer](https://github.com/aeryli/spotify-streamer/)
 
+suggested tools:
+[VS code](https://code.visualstudio.com/)
+[Visual studio](https://visualstudio.microsoft.com/)
+[Thonny](https://thonny.org/)
+[DevKitPro](https://devkitpro.org/)
+[Impactor](https://github.com/claration/Impactor)
+[Python](https://www.python.org/)
+
 <!--
 **aeryli/aeryli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
