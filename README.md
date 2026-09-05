@@ -1,6 +1,9 @@
 projec right now:
 [LonkOS](https://github.com/aeryli/LonkOS/)
 
+![GitHub Languages](https://github-languages-card.vercel.app/api/top-languages?username=aeryli&theme=green)
+
+
 <!--
 **aeryli/aeryli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
